@@ -1,9 +1,9 @@
-![Screenshot from 2024-03-01 22-55-40](https://github.com/askdomainer/2024/assets/5669657/36d5033b-6078-4b15-9b65-c4287ff29b67)
+![Screenshot from 2024-03-01 22-55-40](https://github.com/digitname/2024/assets/5669657/36d5033b-6078-4b15-9b65-c4287ff29b67)
 
 
-# [2024.Report.AskDomainer.com](https://2024.report.askdomainer.com/)
+# [2024.digitname.com](https://2024.digitname.com/)
 
-Zrozumienie rynku domen w roku 2024 nie jest łatwe, [raport AskDomainer](https://2024.askdomainer.com/) służy analizie jakościowej aktualnych trendów, by odpowiedzieć sobie na pytania:
+Zrozumienie rynku domen w roku 2024 nie jest łatwe, [raport digitName](https://2024.digitName.com/) służy analizie jakościowej aktualnych trendów, by odpowiedzieć sobie na pytania:
 - Jak zmieniał się rynek domen w ostatniej dekadzie?
 - Jak zmieni się rynek do roku 2030?
 
@@ -35,14 +35,14 @@ Dla **deweloperów**, **spekulantów**, **inwestorów**, **specjalistów IT**, r
 ### Udostępnij w Social Mediach:
 
 Myślisz o przyszłości internetu i jak technologie 5G/6G odmienią świat domen internetowych? 🌐💡 Sprawdź nasz najnowszy raport, który zagłębia się w nadchodzące zmiany infrastruktury internetowej! 
-Idealna lektura dla każdego technofila! #5G #6G #InternetPrzyszłości #BezpieczeństwoCyfrowe ➡️ [2024.askdomainer.com](https://2024.askdomainer.com/)
+Idealna lektura dla każdego technofila! #5G #6G #InternetPrzyszłości #BezpieczeństwoCyfrowe ➡️ [2024.digitName.com](https://2024.digitName.com/)
 
 Dzięki takiemu podejściu, raport ma szansę dotrzeć do szerokiego grona odbiorców zainteresowanych przyszłością technologii, zarówno wśród profesjonalistów, jak i entuzjastów. Udostępniając go w mediach społecznościowych, nie tylko zwiększysz jego zasięg, ale również wpłyniesz na budowanie świadomości o nadchodzących przemianach w cyfrowym świecie.
 
 
 ### Dyskusja
 
-+ [askdomainer/2024 · Discussion #1](https://github.com/askdomainer/2024/discussions/1)
++ [digitName/2024 · Discussion #1](https://github.com/digitName/2024/discussions/1)
 
 
 
@@ -208,7 +208,7 @@ Obydwa podejścia odpowiadają na potrzebę szybszego dostarczania oprogramowani
 ## Zaprzepaszczone Szanse
 
 
-![obraz](https://github.com/askdomainer/2024/assets/5669657/56f2c126-f4ce-4add-be85-cf5100cd9810)
+![obraz](https://github.com/digitname/2024/assets/5669657/56f2c126-f4ce-4add-be85-cf5100cd9810)
 
 
 Warto zauważyć, że te "zaprzepaszczone szanse" nie są jednoznacznie stratami; są one raczej oznaką ewolucji technologii i preferencji użytkowników, jak również adaptacyjności systemu DNS do rosnących wymagań bezpieczeństwa i funkcjonalności. Ponadto, bardziej zaawansowane technologie, takie jak wspomniane blockchainy, mogą oferować nowe sposoby realizacji tych idei, potencjalnie przezwyciężając ograniczenia, które uniemożliwiły ich pełne wdrożenie w przeszłości.
@@ -250,7 +250,7 @@ Domeny internetowe mogłyby zastąpić skomplikowane adresowanie w systemach IoT
 ## Przyczyny spadku wartości domen internetowych
 
 
-![obraz](https://github.com/askdomainer/2024/assets/5669657/fe707a5c-8dc4-45c2-8861-c9cff7660339)
+![obraz](https://github.com/digitname/2024/assets/5669657/fe707a5c-8dc4-45c2-8861-c9cff7660339)
 
 
 Mimo potencjalnych zalet, kilka czynników ograniczyło szerokie przyjęcie domen internetowych w tych kontekstach:
@@ -335,7 +335,7 @@ W tym samym czasie domeny .de sa dostępne w cenach poniżej 10EUR a przyrost ce
 
 ## Najnowsze Technologie i Bezpieczeństwo 
 
-![obraz](https://github.com/askdomainer/2024/assets/5669657/a6ca30fd-1e84-4380-b649-28831f54eee3)
+![obraz](https://github.com/digitname/2024/assets/5669657/a6ca30fd-1e84-4380-b649-28831f54eee3)
 
 
 Zakup własnej domeny internetowej do infrastruktury, zwłaszcza w kontekście rozwiniętych sieci oraz systemów Human-to-Machine (H2M) działających w sieciach 5G i 6G, może przynieść wiele korzyści oraz ułatwień. 
@@ -381,7 +381,7 @@ Choć technicznie możliwe jest projektowanie i używanie systemów H2M oraz imp
 
 ## Interfejs
 
-![Screenshot from 2024-03-01 22-48-26](https://github.com/askdomainer/2024/assets/5669657/82c98e05-b1ad-443e-9a79-e66c43cd0de6)
+![Screenshot from 2024-03-01 22-48-26](https://github.com/digitname/2024/assets/5669657/82c98e05-b1ad-443e-9a79-e66c43cd0de6)
 
 
 
