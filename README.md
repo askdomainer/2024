@@ -609,6 +609,13 @@ graph TD;
 ```
 
 
+## Organizaje
+
+
+## narzędzia
+
++ [52 best Internetlivestats.com Alternatives](https://xranks.com/alternative/internetlivestats.com)
++ [DNS Security Threat Mitigation Program - ICANN](https://www.icann.org/dns-security-threat)
 
 
 ### Podsumowanie
@@ -668,7 +675,8 @@ Szerokie spektrum zainteresowań, umiejętności analityczne i doświadczenie w 
 + [Tom Sapletta, Linkedin](https://www.linkedin.com/in/tom-sapletta-com)
 + [Tom Sapletta, Github](https://github.com/tom-sapletta-com)
 
-Inne Raporty:
+
+### Inne Raporty:
 + [Rynek pracy w EU okiem Polaka - Raport 2024 - Jak zmieniał się rynek pracy w ostatniej dekadzie? Jak zmieni się rynek do roku 2030?](https://2024.teleworking.info/)
 + [Detekcja obiektów w systemach wizyjnych - Raport 2024 - Jak zmieniał się rynek systemów wizyjnych w zastosowaniach przemysłowych w ostatniej dekadzie? Jak zmieni się rynek do roku 2030?](https://2024.teleoperator.info/)
 
