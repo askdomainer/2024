@@ -6,6 +6,7 @@
 Zrozumienie rynku domen w roku 2024 nie jest łatwe, [raport digitName](https://2024.digitName.com/) służy analizie jakościowej aktualnych trendów, by odpowiedzieć sobie na pytania:
 - Jak zmieniał się rynek domen w ostatniej dekadzie?
 - Jak zmieni się rynek do roku 2030?
+- Jak zmieni się internet do roku 2050?
 
 W obliczu dynamicznie zmieniającego się krajobrazu technologicznego, ten raport rzuca światło na postępującą ewolucję infrastruktury internetowej, wyznaczaną przez rozwój sieci 5G i perspektywy wdrożenia 6G. 
 Dokument skupia się na fundamentach i konwekwencjach w której prywatne domeny providerów 5G/6G odgrywają kluczową rolę jako pośrednicy w dostępie do domen publicznych.
@@ -536,7 +537,6 @@ Domeny o łatwych do zapamiętania, krótkich i atrakcyjnych nazwach będą nada
 
 
 
-
 ### Rozszerzenie i dywersyfikacja TLDs
 
 Top-Level Domains (TLDs) są często uzupełniane o nowe rozszerzenia, co pozwala na większą kreatywność i specjalizację w nazewnictwie domen. 
@@ -609,18 +609,18 @@ graph TD;
 ```
 
 
-## Organizaje
 
 
-## narzędzia
+
+## Organizacje
+
+
+## Narzędzia
 
 + [52 best Internetlivestats.com Alternatives](https://xranks.com/alternative/internetlivestats.com)
 + [DNS Security Threat Mitigation Program - ICANN](https://www.icann.org/dns-security-threat)
 
 
-### Podsumowanie
-
-Do roku 2030 rynek domen może stać się bardziej zróżnicowany, z większym naciskiem na bezpieczeństwo, regulacje oraz innowacje technologiczne takie jak blockchain. Chociaż specyficzne trendy mogą się zmieniać, jasne jest, że domeny internetowe pozostaną kluczowym zasobem w cyfrowym ekosystemie. Adaptacja do zmieniającego się środowiska technologicznego i regulacyjnego będzie niezbędna dla podmiotów działających na tym rynku.
 
 
 
@@ -657,6 +657,143 @@ A co sądzisz o twierdzeniu, że domeny umierają, zwłaszcza w kontekście IoT?
 To interesująca kwestia. Nie powiedziałbym, że domeny "umierają", ale zdecydowanie następuje zmiana w sposobie ich wykorzystania. 
 Producenci mają własne ekosystemy w modelu SaaS. Poza IoT szybsze, tańsze i prostsze może okazać się publikowanie treści w mediach społecznościowych albo korzystanie z usług SaaS, niż tradycyjne zarządzanie hostingiem.
 
+
+
+
+
+### Podsumowanie 2030
+
+Do roku 2030 rynek domen może stać się bardziej zróżnicowany, z większym naciskiem na bezpieczeństwo, regulacje oraz innowacje technologiczne takie jak blockchain. Chociaż specyficzne trendy mogą się zmieniać, jasne jest, że domeny internetowe pozostaną kluczowym zasobem w cyfrowym ekosystemie. Adaptacja do zmieniającego się środowiska technologicznego i regulacyjnego będzie niezbędna dla podmiotów działających na tym rynku.
+
+
+
+
+
+
+
+## Prognoza 2050
+
+
+Do roku 2050 roku sposób projektowania stron internetowych ulegnie kolejnej transformacji, zmieni się interfejs komunikacji z aplikacjami i maszynami.
+Tradycyjne komputery i telefony staną się przestarzałe. 
+Internet będzie oferował wciągające doświadczenia napędzane przez rzeczywistość rozszerzoną i wirtualną, umożliwiając nam naturalną interakcję za pomocą poleceń głosowych, gestów, a nawet myśli.
+
+
+
+## Wyszukiwarki Internetowe
+
++ Google2050
++ Bing2050
++ Yandex2050
+  
+Dzięki postępom w sztucznej inteligencji i uczeniu maszynowym, każde wyszukiwanie online będzie unikalne i wysoce spersonalizowane pod kątem konkretnych potrzeb, nawyków, czasu wyszukiwania, a nawet nastroju.
+
+Zamiast pisać, będziesz uruchamiać wyszukiwanie po prostu myśląc, a wyniki pojawią się w wirtualnym środowisku jako interaktywne obiekty w trówymiarowej rzeczywistości AR/VR/MR. 
+Możesz szybko zapisywać potrzebne informacje bezpośrednio w swojej pamięci, podobnie jak w przypadku wewnętrznego dialogu z superinteligencją.
+
+
+## Platformy streamujące 
+
++ #YouTube2050
++ #Twich2050
+  
+Spodziewaj się interaktywnych widżetów i bardziej dynamicznych filmów, takich jak widoki 360 stopni, zmysły dotyku i węchu oraz dodatki rzeczywistości rozszerzonej, które zapewnią jeszcze bogatsze wrażenia podczas oglądania.
+Będziesz wchodzić w interakcje z treściami, kształtując historie na bieżąco, kierując się niestandardowymi i spersonalizowanymi rekomendacjami AI.
+Jeśli chodzi o transmisje na żywo, będziemy rejestrować nasze życie z perspektywy trzeciej osoby.
+Funkcje społecznościowe umożliwiają wspólne oglądanie na całym świecie, zwiększając liczbę połączeń i społeczności online. 
+
+
+
+## Media społecznościowe
+
++ #meta2050?
++ #X2050?
+  
+W 2050 roku platformy mediów społecznościowych, takie jak Meta, przekształcą się w ogromne wirtualne przestrzenie, w których będziesz mógł łączyć się ze znajomymi i społecznościami, tak jakbyś był w tym samym pokoju.
+Będziesz dołączać do wydarzeń, grać w gry i angażować się w różne działania za pomocą jednego dotknięcia lub nawet myśli.
+
+Oczywiście nadal istnieje kanał wiadomości, tylko bardziej spersonalizowany i mniej zagracony, z inteligentnymi podglądami postów.
+
+Co więcej, sieci społecznościowe będą służyć jako centra wspólnych projektów i wspólnych doświadczeń, pielęgnując silne globalne poczucie wspólnoty.
+
+
+## Słowniki i encyklopedie
+
++ #Wikipedia2050
+
+
+Strona główna największej na świecie encyklopedii będzie zawierać dynamiczną, interaktywną kulę ziemską, którą będzie można obracać, aby przeglądać artykuły związane z różnymi regionami świata. Spersonalizowani asystenci AI będą dostarczać spersonalizowanych rekomendacji i spostrzeżeń w oparciu o indywidualne preferencje i zainteresowania użytkownika.
+
+Chip wszczepiony w głowę użytkownika będzie przechowywać wszystkie potrzebne informacje, a algorytmy sztucznej inteligencji będą natychmiast dodawać i przeglądać treści, aby użytkownik mógł mieć pewność, że są one dokładne i aktualne.
+
+
+
+## Wydawcy wiadomości i mediów
+
++ #Yahoo2050
+  
+
+Wkraczając w przyszłość, Yahoo spotyka nas z interfejsem bogatym w elementy holograficzne i dynamiczne widżety, które wydają się unosić nad powierzchnią.
+
+Każda kolumna będzie miała interaktywne elementy zawierające istotne dane i aktualizacje na żywo. 
+Ale nie musisz nic czytać, aby dowiedzieć się więcej: po prostu wybierz interesującą Cię wiadomość lub temat, a informacje zostaną przesłane do Twojego mózgu.
+
+
+
+## Rynek eCommerce i zakupy
+
++ #Amazon2050
+
+Zakupy online z rozszerzoną rzeczywistością będą podobne do zakupów w fizycznym sklepie.
+Interfejs Amazona pozwoli klientom zobaczyć produkty szczegółowo, jakby były tuż przed nimi i poczuć je za pomocą rękawic sensorycznych, a ubrania przymierzyć w wirtualnej rzeczywistości.
+Dostawa tego samego dnia stanie się normą, ponieważ produkty, które najlepiej odpowiadają Twoim potrzebom, zostaną przygotowane z wyprzedzeniem.
+
+
+
+## Technologia i sztuczna inteligencja
+
++ OpenAI.com
+
+
+Dziś OpenAI.com jest znany w zasadzie tylko okna czatu i dlatego też stał się popularny, jednak coraz bardziej są popularne interfejsy audio i video.
+
+Wyobraź sobie środowisko, w którym będziesz mógł się efektywniej niż wcześniej uczyć, tworzyć i współpracować.
+Użytkownicy będą mieli możliwość interakcji, w tym poprzez wyświetlacze holograficzne, interaktywne projekcje 3D, polecenia głosowe i poprzez myśli.
+
+
+## Internet
+
+Sieć Internet to nie tylko publiczne sieci wchodzące w skład infrastruktury kraju, ale też podsieci prywatne, których znaczenie z powodu nadchodzących fal ataków cybernetycznych będzie rosnąć.
+Jednak, niezależnie od ewolucji Internetu, ludzie nadal będą tworzyć strony internetowe, aby dzielić się swoimi historiami, prezentować firmy lub sprzedawać produkty i usługi.
+Dziś można stworzyć unikalną stronę internetową wypełnioną treścią na zamówienie na podstawie jednego polecenia.
+Dzięki rozwiązaniom: nocode i lowcode można dostosować ją do swoich konkretnych potrzeb i uruchomić bez znajomości technologii.
+
+Jeśli chodzi o projektowanie stron internetowych, kształty 3D i neumorfizm zyskają większą popularność.
+Oczywiście, strony te będą wyglądać zupełnie inaczej, dostosowane do meta wersetów, wirtualnej rzeczywistości i urządzeń AI, takich jak Rabbit R1
+
+W przyszłości opublikowanie materiałów multimedialnych będzie tak proste jak zdefiniowanie komunikatu głosowego czy myśli.
+
+
+
+## Podsumowanie
+
+Rozwój autonomicznych asystentów w domu, samochodzie, ubraniach będzie postępował.
+Innowacyjne gadżety, takie jak okulary wirtualnej rzeczywistości, inteligentne słuchawki douszne, bransoletki, projektory holograficzne i inne, zastąpią tradycyjne komputery i telefony.
+
+Rzeczywistość rozszerzona i wirtualna sprawią, że "doświadczanie" internetu stanie się zupełnie innym doświadczeniem.
+
+Będziemy wchodzić w interakcje z technologią za pomocą poleceń głosowych, gestów, a nawet myśli.
+
+Strony internetowe będą traktować priorytetowo hiperpersonalizację, dostosowując treści i układy dla każdego odwiedzającego.
+Treści generowane przez sztuczną inteligencję zwiększą kreatywność i różnorodność, zapewniając jednocześnie trafność i niezawodność.
+
+Implanty mózgu wciąż są testowane. Jeśli jednak będziemy w stanie wykorzystać je do wysyłania i odbierania danych, możliwości będą nieograniczone.
+Wyszukiwania online staną się monologiem w naszych głowach, a najważniejsze wiadomości dnia lub wpisy encyklopedyczne mogą po prostu zostać przesłane do naszej pamięci.
+
+Rozpoczęcie działalności online lub innego rodzaju strony internetowej będzie tak proste, jak rozmowa z przyjacielem o swoim pomyśle.
+
+Oczywiście są to prognozy oparte na aktualnych spostrzeżeniach.
+Technologia zmienia się i poprawia w szybkim tempie, a czasami postęp zmierza w innym kierunku niż oczekiwano.
 
 
 
